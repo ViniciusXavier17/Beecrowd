@@ -24,3 +24,5 @@ for i in range(quant):
     else:
         print(f'{resultado1}/{resultado2} = {s}')
 
+##teste teste para o hackers do bem, blueteam
+
